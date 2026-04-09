@@ -7,7 +7,7 @@ Este projeto foi desenvolvido para aplicar conceitos de lógica de programação
 - Windows Forms
 
 ## Funcionalidades
-- Entrada de dados com validação (evita erros de digitação e campos vazios)
+- Entrada de dados com validação (evita erros de digitação e valores menores ou iguais a 0)
 - Lógica de tratamento para entradas em CM ou metros
 - Exibição de resultados formatados em uma lista de fácil leitura
 
