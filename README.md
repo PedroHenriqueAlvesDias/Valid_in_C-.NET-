@@ -15,5 +15,11 @@ Este projeto foi desenvolvido para aplicar conceitos de lógica de programação
 # Demonstração
 
 
+#Funcionamento
+![Resultado](images/print1.png)
 
+### Validação de dados
+![Altura inválida](images/erro-altura.png)
+![Peso inválido](images/erro-peso.png)
+![Campos vazios](images/erro-campos.png)
 
