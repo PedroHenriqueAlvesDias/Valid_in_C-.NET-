@@ -20,5 +20,5 @@ Este projeto foi desenvolvido para aplicar conceitos de lógica de programação
 ### Validação de dados
 
 ![Altura inválida](images/erro_altura.png)
-![Peso inválido](erro_peso.png)
+![Peso inválido](images/erro_peso.png)
 ![Valores menores que 0](images/erro_valores_menores_que_0.png)
